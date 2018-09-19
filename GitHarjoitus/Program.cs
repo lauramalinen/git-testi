@@ -10,6 +10,8 @@ namespace GitHarjoitus
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello world!");
+            Console.ReadKey();
         }
     }
 }
